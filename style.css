@@ -40,10 +40,13 @@ nav .mainMenu .closeMenu, .icons i{
      display: none;
      cursor: pointer;
 }
-/* .fa-hackerrank:hover{color: aqua;} */
-span.icons:hover{
+.fa-hackerrank:hover{color: rgb(195, 0, 255);}
+.fa-github:hover{color: rgb(247, 0, 255);}
+.fa-instagram:hover{color: rgb(255, 0, 221);}
+.fa-linkedin-in:hover{color: rgb(255, 0, 238);}
+/* span.icons:hover{
     color: aqua;
-}
+} */
 nav .logo{
      margin: 6px;
      font-size: 25px;
@@ -79,7 +82,7 @@ nav .logo{
      nav .mainMenu li a:hover
      {
           background: none;
-          color:antiquewhite;
+          color:rgb(240, 4, 237);
           font-size: 1.6rem;
      }
      .icons i{
